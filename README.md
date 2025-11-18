@@ -15,8 +15,5 @@ Build an **Airflow pipeline** that:
 
 ---
 
-### Modify docker-compose.yaml 
-Add the following packages in `_PIP_ADDITIONAL_REQUIREMENTS`:
-
 <img width="938" height="290" alt="image" src="https://github.com/user-attachments/assets/24a5dd66-b510-448f-8767-9ba517bdf48f" />
 
